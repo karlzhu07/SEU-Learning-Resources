@@ -20,26 +20,26 @@
 
 ## 🗂️ 学期与课程导航 (Course Index)
 
-### 📌 [01-大一上 (Freshman Fall)](./01-大一上/)
+### 📌 [01-大一上 (Freshman Fall)](https://github.com/karlzhu07/SEU-Learning-Resources/tree/main/01-%E5%A4%A7%E4%B8%80%E4%B8%8A)
 
-#### [工科数学分析](./01-大一上/工科数学分析/)
+#### [工科数学分析](https://github.com/karlzhu07/SEU-Learning-Resources/tree/main/01-%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%B7%A5%E7%A7%91%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90)
 
-- 期中总结（Markdown、带目录 PDF）、导数与三角公式默写测试卷（PDF）。[复习整理](./01-大一上/工科数学分析/复习整理/)
-- 第一章期中复习总结（Markdown）。[第一章](./01-大一上/工科数学分析/复习整理/unit1/)
-- 第二章知识梳理与二级结论（Markdown、PDF）。[第二章](./01-大一上/工科数学分析/复习整理/unit2/)
+- 期中总结（Markdown、带目录 PDF）、导数与三角公式默写测试卷（PDF）。[复习整理](https://github.com/karlzhu07/SEU-Learning-Resources/tree/main/01-%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%B7%A5%E7%A7%91%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E5%A4%8D%E4%B9%A0%E6%95%B4%E7%90%86)
+- 第一章期中复习总结（Markdown）。[第一章](https://github.com/karlzhu07/SEU-Learning-Resources/tree/main/01-%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%B7%A5%E7%A7%91%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E5%A4%8D%E4%B9%A0%E6%95%B4%E7%90%86/unit1)
+- 第二章知识梳理与二级结论（Markdown、PDF）。[第二章](https://github.com/karlzhu07/SEU-Learning-Resources/tree/main/01-%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%B7%A5%E7%A7%91%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E5%A4%8D%E4%B9%A0%E6%95%B4%E7%90%86/unit2)
 
-#### [工科高等代数](./01-大一上/工科高等代数/)
+#### [工科高等代数](https://github.com/karlzhu07/SEU-Learning-Resources/tree/main/01-%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%B7%A5%E7%A7%91%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0)
 
-- 第一章多项式笔记，收录知识梳理、解题方法、二级结论和习题索引（Markdown、PDF）。[第一章笔记](./01-大一上/工科高等代数/笔记/第一章/)
-- 大一上期中测验卷 1–3（PDF）。[期中测验卷](./01-大一上/工科高等代数/试题/大一上期中/)
-- 历年测验 `key` 文件（PDF），包括 2024 年真卷一、2023 年真卷二和 2024 年真卷二。[试题目录](./01-大一上/工科高等代数/试题/)
+- 第一章多项式笔记，收录知识梳理、解题方法、二级结论和习题索引（Markdown、PDF）。[第一章笔记](https://github.com/karlzhu07/SEU-Learning-Resources/tree/main/01-%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%B7%A5%E7%A7%91%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0/%E7%AC%94%E8%AE%B0/%E7%AC%AC%E4%B8%80%E7%AB%A0)
+- 大一上期中测验卷 1–3（PDF）。[期中测验卷](https://github.com/karlzhu07/SEU-Learning-Resources/tree/main/01-%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%B7%A5%E7%A7%91%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0/%E8%AF%95%E9%A2%98/%E5%A4%A7%E4%B8%80%E4%B8%8A%E6%9C%9F%E4%B8%AD)
+- 历年测验 `key` 文件（PDF），包括 2024 年真卷一、2023 年真卷二和 2024 年真卷二。[试题目录](https://github.com/karlzhu07/SEU-Learning-Resources/tree/main/01-%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%B7%A5%E7%A7%91%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0/%E8%AF%95%E9%A2%98)
 
-#### [C++](./01-大一上/C%2B%2B/)
+#### [C++](https://github.com/karlzhu07/SEU-Learning-Resources/tree/main/01-%E5%A4%A7%E4%B8%80%E4%B8%8A/C%2B%2B)
 
-- C++ 前三讲知识梳理（Markdown）。[复习整理](./01-大一上/C%2B%2B/复习整理/)
-- 期中复习题库（Markdown）、5 个练习源码（`.cpp`）和 `CMakeLists.txt`。[期中复习](./01-大一上/C%2B%2B/复习整理/期中复习/)
+- C++ 前三讲知识梳理（Markdown）。[复习整理](https://github.com/karlzhu07/SEU-Learning-Resources/tree/main/01-%E5%A4%A7%E4%B8%80%E4%B8%8A/C%2B%2B/%E5%A4%8D%E4%B9%A0%E6%95%B4%E7%90%86)
+- 期中复习题库（Markdown）、5 个练习源码（`.cpp`）和 `CMakeLists.txt`。[期中复习](https://github.com/karlzhu07/SEU-Learning-Resources/tree/main/01-%E5%A4%A7%E4%B8%80%E4%B8%8A/C%2B%2B/%E5%A4%8D%E4%B9%A0%E6%95%B4%E7%90%86/%E6%9C%9F%E4%B8%AD%E5%A4%8D%E4%B9%A0)
 
-#### [世界多元音乐鉴赏](./01-大一上/世界多元音乐鉴赏/)
+#### [世界多元音乐鉴赏](https://github.com/karlzhu07/SEU-Learning-Resources/tree/main/01-%E5%A4%A7%E4%B8%80%E4%B8%8A/%E4%B8%96%E7%95%8C%E5%A4%9A%E5%85%83%E9%9F%B3%E4%B9%90%E9%89%B4%E8%B5%8F)
 
 - 课程论文《北京京剧论文》（Word）。[查看论文](./01-大一上/世界多元音乐鉴赏/北京京剧论文.docx)
 
