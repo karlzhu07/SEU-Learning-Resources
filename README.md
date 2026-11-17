@@ -4,7 +4,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
 [![University](https://img.shields.io/badge/SEU-东南大学-FF6B00.svg)](https://www.seu.edu.cn/)
 
-> **“止于至善”** —— 本仓库收录了我在东南大学（SEU）本科期间按学期整理、排版与总结的各科学习资料、课程笔记、习题解析与复习提纲。希望能为同学们的课程学习与期末复习提供一份清晰的参考。
+> **“止于至善”** —— 本仓库收录了我在东南大学（SEU）本科期间按学期整理、排版与总结的各科学习资料、课程笔记、习题解析与复习提纲。希望能为同学们的课程学习与考试复习提供一份清晰的参考。
 
 ---
 
